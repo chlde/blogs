@@ -364,5 +364,5 @@ awk支持循环和判断来表达分支逻辑。awk循环支持while和for常见
 
 就写这些吧，希望能帮助到您。有任何问题，请给我留言。谢谢！
 
-欢迎转发此文，请注明出处https://www.gkwen.com/blog/awk_sed
+欢迎转发此文，请注明出处http://www.chlde.com/blog/awk_sed
 
