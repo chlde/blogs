@@ -68,9 +68,9 @@ Bing！是时候亮出<b>东北料理</b>绝技了！铺上刚炒过的，蒜末
 
 
 <b>
-欢迎转载，请注明出处：https://www.gkwen.com/blog/weekend_lobster
+欢迎转载，请注明出处：http://www.chlde.com/blog/weekend_lobster
 </b>
 
 <b>
-关注[玉鲲](https://www.gkwen.com/food)，关注快乐生活！
+关注[玉锟](http://www.chlde.com/cook)，关注快乐生活！
 </b>
